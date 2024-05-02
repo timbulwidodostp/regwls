@@ -1,5 +1,6 @@
-d 'DEA': Data envelopment analysis
+d 'regwls': Weighted Least Squares with factor variables Use regwls With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f regwls.ado
+f regwls.sthlp
+f wls0.ado
+f wls0.hlp
