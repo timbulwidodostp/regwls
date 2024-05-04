@@ -1,6 +1,8 @@
 # regwls
 Weighted Least Squares with factor variables Use regwls With STATA 18
 
+https://www.youtube.com/watch?v=rO4t7-DEsdQ
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
